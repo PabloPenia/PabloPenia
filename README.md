@@ -3,11 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200px" />
  <div id="badges">
-  <a href="https://linkedin.com/in/PabloPenia">
+  <a href="https://linkedin.com/in/PabloPenia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://pablopenia.dev">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://twitter.com/DevPablopenia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -19,9 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 ---
 
 ### :woman_technologist: About Me :
