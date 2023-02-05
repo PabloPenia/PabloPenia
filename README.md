@@ -1,13 +1,10 @@
 # PabloPenia
- 
-<div id="header" align="center">
+
+<div id="header" text-align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200px" />
  <div id="badges">
   <a href="https://linkedin.com/in/PabloPenia">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://pablopenia.dev">
-    <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://twitter.com/DevPablopenia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,6 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina, currently living in Uruguay.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
@@ -30,6 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -49,9 +48,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloPenia&theme=dark)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablopenia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PabloPenia&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablopenia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
