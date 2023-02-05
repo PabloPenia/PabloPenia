@@ -1,5 +1,3 @@
-# PabloPenia
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200px" />
  <div id="badges">
@@ -11,25 +9,26 @@
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=pablopenia&style=flat-square&color=blue" alt=""/>
- <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 ---
+
+<h1 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina, currently living in Uruguay.
 
-- :handshake: Contributed in the past with some awesome php projects such as [phpBB](https://phpbb.com), [phpBB España](https://phpbb-es.com), [SEBLOD](https://seblod.com) and phpBB Argentina.
-- :video_game: Managed several gaming communities such as Requiem Latino, Tegadiccion and Diablo 2 Latino.
-- :handbag: Currently focused on the MERN stack and game development with godot and blender.
-- :nerd_face: In my free time I like to :book: read and :black_nib: write sci fi, also playing :video_game: video games.
-- :mailbox: Contact me: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
-- :framed_picture: See my [portfolio](https://pablopenia.dev)
-- :heavy_plus_sign: More in [![Codepen Badge](https://img.shields.io/badge/-PabloPenia-dark?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/3dm777)
+:handshake: Contributed in the past with some awesome php projects such as [phpBB](https://phpbb.com), [phpBB España](https://phpbb-es.com), [SEBLOD](https://seblod.com) and phpBB Argentina.
+:video_game: Managed several gaming communities such as Requiem Latino, Tegadiccion and Diablo 2 Latino.
+:handbag: Currently focused on the MERN stack and game development with godot and blender.
+:nerd_face: In my free time I like to :book: read and :black_nib: write sci fi, also playing :video_game: video games.
+:mailbox: Contact: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
+:framed_picture: See my [portfolio](https://pablopenia.dev)
+:heavy_plus_sign: More in [![Codepen Badge](https://img.shields.io/badge/-PabloPenia-black?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/3dm777)
 
 ---
 
