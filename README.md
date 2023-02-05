@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :video_game: Managed several gaming communities such as Requiem Latino, Tegadiccion and Diablo 2 Latino.
 - :handbag: Currently focused on the MERN stack and game development with godot and blender.
 - In my free time I like to :book: read and :black_nib: write sci fi, also playing :video_game: video games.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
+- :mailbox: Contact me: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
 
 ---
 
