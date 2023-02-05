@@ -28,6 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :handbag: Currently focused on the MERN stack and game development with godot and blender.
 - :nerd_face: In my free time I like to :book: read and :black_nib: write sci fi, also playing :video_game: video games.
 - :mailbox: Contact me: [![Linkedin Badge](https://img.shields.io/badge/-PabloPenia-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/PabloPenia)
+- :framed_picture: See my [portfolio](https://pablopenia.dev)
 
 ---
 
